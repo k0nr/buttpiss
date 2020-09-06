@@ -1,7 +1,6 @@
 [Dolphin]
 HeaderColumnWidths=832,64,96,116
 SortRole=type
-Timestamp=2020,9,6,12,30,59
+Timestamp=2020,9,6,15,16,49
 Version=4
-ViewMode=1
 VisibleRoles=Details_text,Details_size,Details_modificationtime,Details_type,CustomizedDetails
