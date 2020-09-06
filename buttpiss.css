@@ -57,7 +57,7 @@ html {
 
 .container {
     position: relative;    
-    width: 50%;
+    width: 55%;
     left: 20%;
     background-color: rgba(255,170,0,0.5);
 }
@@ -74,10 +74,10 @@ html {
 .contact-container {
     display: flex;
     flex-direction: row;
-    position: relative;
-    bottom: 1%;
+    position: absolute;
+    bottom: 3%;
     width: 100%;
-    padding-top: 20%;
+    margin-top: 20%;
     font-family: 'Lato', sans-serif;
     text-align: center;
     color: black;
@@ -169,6 +169,17 @@ html {
     padding-bottom: 45px;
 }
 
+
+/* fire footer */
+
+.footer {
+    position: fixed;
+    width: 100%;
+    height: 12%;
+    bottom: 0;
+    /* with whatever you want to stick at the bottom */
+    background: url('images/fire.gif');
+}
 /* youtube */
 
 .youtube-responsive-container {
